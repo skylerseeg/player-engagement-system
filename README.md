@@ -29,7 +29,7 @@ AI-Powered Personalized Player Engagement System
 ```
 
 ## Prerequisites
-- Python 3.9+
+- Python 3.9=
 - Docker (optional, for containerization)
 
 ## Installation
