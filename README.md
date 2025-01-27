@@ -45,13 +45,16 @@ AI-Powered Personalized Player Engagement System
    ```
 3. Install dependencies:
    Ensure the `requirements.txt` file includes all necessary dependencies:
-   - pandas
-   - scikit-learn
-   - FastAPI
-   - uvicorn
-   - numpy
+   - tensorflow
+   - torch
    - transformers
    - diffusers
+   - fastapi
+   - uvicorn
+   - scikit-learn
+   - pandas
+   - numpy
+   - matplotlib
 
    Then, install them:
    ```bash
