@@ -55,7 +55,7 @@ AI-Powered Personalized Player Engagement System
 ### Option 1: Using Conda (Recommended)
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ai-player-engagement.git
+   git clone https://github.com/skylerseeg/ai-player-engagement.git
    cd ai-player-engagement
    ```
 
